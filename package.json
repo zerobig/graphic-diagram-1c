@@ -1,0 +1,11 @@
+{
+  "name": "graphic-diagram-1c",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build": "cd scripts && ext2cfe.cmd ../src ../dist/graphic-diagram-1c.cfe ГрафическаяСхема"
+  },
+  "keywords": [],
+  "author": "Bushin Ilya",
+  "license": "MIT"
+}
